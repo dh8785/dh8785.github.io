@@ -1,2 +1,2 @@
-# dh8785.github.io
-Dong-Hyun's personal website
+# Dong-Hyun's personal website
+URL: https://dh8785.github.io
